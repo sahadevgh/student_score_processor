@@ -1,5 +1,4 @@
 # student_score_processor
-# Student Score Processor
 
 ## Overview
 This Python program reads student scores from a CSV file (`students_scores.csv`), calculates the average score for each student, and determines the highest and lowest-scoring students. The processed results are saved in a text file (`processed_scores.txt`).
